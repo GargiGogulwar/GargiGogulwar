@@ -12,27 +12,27 @@ Always learning, building, and improving.
 ---
 
 ## 🚀 About Me  
-- 🔍 Interested in **Machine Learning, Data Analytics, Cybersecurity, and System Design**  
-- 💡 Love working on **AI projects**, dashboards, simulations, and DSA-heavy C++ projects  
-- 📚 Currently improving skills in **ML pipelines, model building, data engineering, and automation**  
-- 🛠️ Actively building real-world projects — not just toy examples  
-- 🌱 Always exploring how technology can solve meaningful problems  
+- Interested in **Machine Learning, Data Analytics, Cybersecurity, and System Design**  
+- Love working on **AI projects**, dashboards, simulations, and DSA-heavy C++ projects  
+- Currently improving skills in **ML pipelines, model building, data engineering, and automation**  
+- Actively building real-world projects — not just toy examples  
+-  Always exploring how technology can solve meaningful problems  
 
 ---
 
 ## 🧠 Tech Stack
 
 ### **Languages**
-- 🐍 Python  
-- 🚀 C++  
-- 🐧 Bash / Linux  
+- Python  
+- C++  
+- Bash / Linux  
 
 ### **Core Skills**
-- 🧮 Machine Learning  
-- 📊 Data Analysis & Visualization  
-- ⚡ Automation & Scripting  
-- 🧩 DSA + Problem Solving  
-- 🖥️ System Design Basics  
+- Machine Learning  
+- Data Analysis & Visualization  
+- Automation & Scripting  
+- DSA + Problem Solving  
+- System Design Basics  
   
 
 ### **Tools & Frameworks**
