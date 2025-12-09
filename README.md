@@ -87,7 +87,7 @@ Basic frontend clone replicating conversational UI and message flow.
 
 ## 📫 Connect With Me
 📧 Email: **gargi.gogulwar23@pccoepune.org**  
-🔗 LinkedIn: *Coming soon — let me know if you want help creating a great LinkedIn profile!*
+
 
 ---
 
