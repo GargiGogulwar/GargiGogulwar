@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Gargi Gogulwar
 
 ### AI/ML • Data Analytics • Python Developer  
@@ -42,38 +40,6 @@ Always learning, building, and improving.
 - Linux (Kali + Ubuntu)  
 - VS Code, Jupyter Notebook  
 - MySQL  
-
----
-
-## 🔥 Featured Projects
-
-### 🎬 **Netflix Recommendation & Analytics Dashboard**
-📌 Python | ML | Data Visualization  
-A complete dashboard analyzing Netflix trends, genres, ratings, clusters, and recommendations.
-
----
-
-### 📁 **Filesystem Simulator Using Red-Black Tree**
-📌 C++ | DSA | System Design  
-Built an in-memory filesystem using an efficient **Red-Black Tree** structure for directory operations.
-
----
-
-### 🤖 **Multi-Agent Job Screening AI**
-📌 Python | Automation  
-A multi-agent system that filters, ranks, and evaluates candidates using automated workflows.
-
----
-
-### 🕹️ **Tower Jumper Game**
-📌 C++  
-A simple yet fun game demonstrating OOP, game loops, and interactive logic.
-
----
-
-### 💬 **ChatGPT Clone**
-📌 JavaScript  
-Basic frontend clone replicating conversational UI and message flow.
 
 ---
 
